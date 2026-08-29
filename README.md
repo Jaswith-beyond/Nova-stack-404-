@@ -1,2 +1,57 @@
-# Nova-stack-404-
-This is a website that sorts and aligns the interest of various students, that indeed helps them in various events  
+
+# CAMPUS TALENT NETWORK
+
+
+Discover TALENT, Connect MINDS, Build TEAMS, Create IMPACT
+
+![Logo](https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/WhatsApp%20Image%202026-08-29%20at%2012.56.28%20PM.jpeg?raw=true)
+
+
+## PROBLEM STATEMENT
+
+Students often struggle to find the right teammates for academic projects due to limited awareness of their peers’ skills, interests, availability, and project requirements. Existing methods of team formation are mostly manual and inefficient, leading to mismatched teams, uneven skill distribution, and missed collaboration opportunities.
+
+## SOLUTION
+
+
+Our platform provides a smart and centralized way for students to discover and connect with suitable teammates based on their skills, interests, availability, and project requirements. It simplifies team formation, promotes meaningful collaboration, and helps students build balanced and effective project teams.
+## KEY FEATURES
+- Student profile + Skill Tags
+- Project Posting + role requirment
+- Availability Window
+- Ranked Candidate Suggestion 
+- Team Formation + Invite Flow 
+
+## HOW IN WORKS?
+- Every student creates his/her profile 
+- later he/she adds his/her skills,availability,intrest and experience
+- The user can find the teamate as per the requirment , even the specification of requirment is respected
+-Features like reporing a person with false profile,who will be expelled out automatically after 5 reports
+- Students have window to fetch the events , and identify the requirments aswell, also they are entertained to create their own projects
+
+## TECH STACK 
+
+* **Programming Language:** Python
+* **Database:** SQL
+* **AI/Matching Logic:** Python-based matching algorithm
+
+## IMPACT 
+
+- Helps students find suitable teammates
+- Reduces time spent searching
+- Encourages cross-domain collaboration
+- Improves project team formation
+## FUTURE SCOPE
+- AI-powered matching
+- Skill-gap analysis
+- Project recommendations
+- College-wide collaboration
+- Team performance insights
+## TEAM MEMBERS
+- **JASWITH(C)**
+- **DAIWIK**
+- **NAKSHA ESHWAR**
+- **JAISIKA**
+- **MADHAV SRINIVASAN**
+- **DEVANSH GOEL**
+
