@@ -38,7 +38,7 @@ Our platform provides a smart and centralized way for students to discover and c
  
  
 
-## HOW IN WORKS?
+## HOW IT WORKS?
 - Every student creates his/her profile 
 - later he/she adds his/her skills,availability,intrest and experience
 - The user can find the teamate as per the requirment , even the specification of requirment is respected
