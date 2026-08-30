@@ -5,7 +5,9 @@
 Discover TALENT, Connect MINDS, Build TEAMS, Create IMPACT
 
 ![Logo](https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/WhatsApp%20Image%202026-08-29%20at%2012.56.28%20PM.jpeg?raw=true)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/nova-logo.png" width="120" alt="Nova Stack Logo">
+</p>
 
 ## PROBLEM STATEMENT
 
