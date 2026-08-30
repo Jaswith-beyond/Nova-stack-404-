@@ -68,4 +68,11 @@ Our platform provides a smart and centralized way for students to discover and c
 - **JAISIKA**
 - **MADHAV SRINIVASAN**
 - **DEVANSH GOEL**
+## ACKNOWLEDGE
+
+ - [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+ - [Khan Academy](https://www.khanacademy.org/)
+ - [Python documentation](https://www.python.org/doc/)
+
+
 
