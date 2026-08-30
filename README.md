@@ -30,7 +30,9 @@ Our platform provides a smart and centralized way for students to discover and c
 - Team Weakness / Skill-Gap Detector
 - Profile / Project Experience Integration
 ## HOMEPAGE VIEW
+
 ![Homepage Screenshot](https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/Screenshot%202026-08-30%20112018.png?raw=true)
+![collage](https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/collage.png?raw=true)
   
 
  
