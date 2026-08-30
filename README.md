@@ -17,10 +17,22 @@ Students often struggle to find the right teammates for academic projects due to
 Our platform provides a smart and centralized way for students to discover and connect with suitable teammates based on their skills, interests, availability, and project requirements. It simplifies team formation, promotes meaningful collaboration, and helps students build balanced and effective project teams.
 ## KEY FEATURES
 - Student profile + Skill Tags
-- Project Posting + role requirment
+- Project Posting + role requirement
 - Availability Window
 - Ranked Candidate Suggestion 
-- Team Formation + Invite Flow 
+- Team Formation + Invite Flow
+- Complementary Skill-Gap Analyzer
+- Work Style & Preference System
+- Allow users to specify their normal working hours
+-  Project DNA : Based on the information entered in the Smart Project Brief Builder, automatically create a *Project DNA profile*
+- Team Chemistry / Compatibility
+- Team Skill Visualization
+- Team Weakness / Skill-Gap Detector
+- Profile / Project Experience Integration
+  
+
+ 
+ 
 
 ## HOW IN WORKS?
 - Every student creates his/her profile 
