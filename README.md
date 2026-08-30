@@ -40,9 +40,9 @@ Our platform provides a smart and centralized way for students to discover and c
 
 ## HOW IT WORKS?
 - Every student creates his/her profile 
-- later he/she adds his/her skills,availability,intrest and experience
-- The user can find the teamate as per the requirment , even the specification of requirment is respected
--Features like reporing a person with false profile,who will be expelled out automatically after 5 reports
+- later he/she adds his/her skills,availability,interest and experience
+- The user can find the teamate as per the requirement , even the specification of requirement is respected
+-Features like reporing a person with false profile,who will be expelled out automatically after 3 reports
 - Students have window to fetch the events , and identify the requirments aswell, also they are entertained to create their own projects
 
 ## TECH STACK 
