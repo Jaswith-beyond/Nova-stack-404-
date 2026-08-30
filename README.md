@@ -4,7 +4,7 @@
 
 Discover TALENT, Connect MINDS, Build TEAMS, Create IMPACT
 
-<img src="https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/ChatGPT%20Image%20Aug%2030,%202026,%2002_41_52%20PM.png?raw=true" width="160" alt="Nova Stack Logo">
+<img src="https://github.com/Jaswith-beyond/Nova-stack-404-/blob/main/LOGO.png?raw=true" width="160" alt="Nova Stack Logo">
 </p>
 
 ## PROBLEM STATEMENT
